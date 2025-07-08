@@ -44,7 +44,8 @@ This project is intended to run on **SQL Server**.
    > The code for creating the tables is in the `task-management-system.sql` file.
 
 3. **Insert sample data:**
-   > The code for inserting sample data into the tables (`Users`, `statusim`, `task`) is in the `הכנסת נתונים.sql` file.
+   > The code for inserting sample data into the tables (`Users`, `statusim`, `task`) is in the `details
+   .sql` file.
 
 4. **Create the database objects (functions, procedures, triggers):**
    - **Functions:** `identification`, `the_workers_below`, `Retrieving_all_subtasks`, `fathersTask`, `retrievingTasks`
